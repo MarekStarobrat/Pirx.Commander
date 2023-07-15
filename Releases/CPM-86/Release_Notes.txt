@@ -1,0 +1,6 @@
+
+15.07.2023 
+  The Pirx Commander for CP/M-86 - First release, version 1.00 (Pirx_Cpm86_v_1.00.zip)
+  The CP/M-86 for Newbies - First release (Cpm86_for_Newbies.zip)
+
+
